@@ -1,0 +1,10 @@
+# ========================================================
+# Nama : Muhammad Rafi Fatihul Ihsan
+# NIM  : 24343016
+# Sesi : 202523430039
+# ========================================================
+opencv-python
+numpy
+matplotlib
+requests
+pillow
